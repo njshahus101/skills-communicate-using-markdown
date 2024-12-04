@@ -28,6 +28,6 @@ var myVar = "Hello, world!";
 _Congratulations, you've completed this course!_
 
 <img src=https://octodex.github.com/images/welcometocat.png alt=celebrate width=300 align=right>
-<img src=https://octodex.github.com/images/yaktocat.png alt=celebrate width=300 align=left>
+<img src=https://octodex.github.com/images/yaktocat.png alt=Yaktocat width=300 align=left>
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
